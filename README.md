@@ -25,8 +25,6 @@ npx skills add capsenz/agent-zenze@skills/use-reference -g -y
 
 ### Configuration
 
-### Configuration
-
 Set `DESIGN_REFERENCES_DIR` in your shell profile (e.g., `~/.zshrc` or `~/.bashrc`):
 
 ```bash
