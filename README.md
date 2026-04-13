@@ -1,4 +1,4 @@
-# Agent Toolbox
+# Agent Zenze 🛠️
 
 A collection of skills and configurations for AI agents (Claude Code, Pi).
 
@@ -7,7 +7,23 @@ A collection of skills and configurations for AI agents (Claude Code, Pi).
 - [add-reference](skills/add-reference/SKILL.md): Scrape or scaffold design styles.
 - [use-reference](skills/use-reference/SKILL.md): Load design principles and snippets into context.
 
+## Installation
+
+The recommended way is using the `skills` CLI:
+
+### add-reference
+```bash
+npx skills add capsenz/agent-zenze@skills/add-reference -g -y
+```
+
+### use-reference
+```bash
+npx skills add capsenz/agent-zenze@skills/use-reference -g -y
+```
+
 ## Setup
+
+### Configuration
 
 ### Configuration
 
