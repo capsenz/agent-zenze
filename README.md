@@ -1,4 +1,4 @@
-# Agent Zenze 🛠️
+# Agent Zenze
 
 A collection of skills and configurations for AI agents (Claude Code, Pi).
 
